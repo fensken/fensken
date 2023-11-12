@@ -1,7 +1,8 @@
 ![](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fslwwksy36nfa1.gif)
 <h1 align="center">Hi 👋, I'm Shardul Gautam</h1>
 <h3 align="center">A Software Engineer from Nepal.</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/5487982-Developers-Gif" />
+<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ5OHl0dHFqdndwbmh6ZzFybjJub3pkMmprcHVoN2drbnBkMmI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2Ygy0khwewLgMSYM0t/giphy.gif" />
+
 
 - 📫 How to reach me **shardul.gautam123@gmail.com**
 
