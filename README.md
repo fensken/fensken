@@ -1,6 +1,6 @@
 ![](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fslwwksy36nfa1.gif)
 <h1 align="center">Hi 👋, I'm Shardul Gautam.</h1>
-<p align="center">I'm a software engineer from Nepal. I specialize in crafting efficient and elegant software solutions, constantly driven by the challenges of transforming ideas into user-friendly applications. Beyond coding, I deeply love music and enjoy exploring new tech ideas. Feel free to explore my GitHub repositories, and let's connect for collaboration, and learning, or simply to share insights into the world of software development. Welcome to my digital space!!!</p>
+<p align="center">I'm a software engineer from Nepal. I specialize in crafting efficient and elegant software solutions, constantly driven by the challenges of transforming ideas into user-friendly applications. Beyond coding, I deeply love music and enjoy exploring new tech ideas. Feel free to explore my GitHub repositories, and let's connect for collaboration, and learning, or simply to share insights into the world of software development. Welcome to my digital space!!!!</p>
 
 - Website: https://www.shardulgautam.com.np/
 - 📫 Email Address: **shardul.gautam123@gmail.com**
